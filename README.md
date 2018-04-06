@@ -1,4 +1,4 @@
-# Translate-to-TSC V1.4
+# Translate-to-TSC V1.41
 
 把现代汉语翻译成唐译梵文.
 
