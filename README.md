@@ -11,9 +11,7 @@ python han_to_tang.py 斯里兰卡
 
 ## 许可证
 
-```
 本项目采用 你丫想他妈干嘛就他妈干嘛许可证, 请参考[LICENSE_CN.md](LICENSE_CN.md)获取更多细节.
-```
 
 ## 未来计划
 
@@ -30,9 +28,7 @@ python han_to_tang.py 斯里兰卡
 ```
 ## License
 
-```
 This project is licensed under the WTFPL License - see the [LICENSE.md](LICENSE.md) file for details.
-```
 
 ## ToDo
 
