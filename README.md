@@ -1,4 +1,4 @@
-# scaling-fojing
+# Translate-to-TSC
 
 把现代汉语翻译成唐译梵文.
 
@@ -7,8 +7,8 @@ Translate modern Chinese into TSC (Tang-Sanskrit-Chinese).
 ##  安装和运行测试
 
 ```
-git clone https://github.com/CheshireRabbit/scaling-fojing.git
-cd scaling-fojing
+git clone https://github.com/CheshireRabbit/Translate-to-TSC.git
+cd Translate-to-TSC
 pip install pypinyin
 python han_to_tang.py 斯里兰卡
 ```
@@ -25,8 +25,8 @@ Installation & Running the tests
 ------------
 
 ```
-git clone https://github.com/CheshireRabbit/scaling-fojing.git
-cd scaling-fojing
+git clone https://github.com/CheshireRabbit/Translate-to-TSC.git
+cd Translate-to-TSC
 pip install pypinyin
 python han_to_tang.py 斯里兰卡
 ```
