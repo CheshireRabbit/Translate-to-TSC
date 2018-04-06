@@ -1,5 +1,9 @@
 # scaling-fojing
 
+把现代汉语翻译成唐译梵文.
+
+Translate modern Chinese into TSC (Tang-Sanskrit-Chinese).
+
 ##  安装和运行测试
 
 ```
